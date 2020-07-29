@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+# Recent Courses
+
+* IDST 270, Introduction to Digital Humanities
+  * Fall 2020
+
+* ENGL 350, Writing for the Digital Humanities
+  * Fall 2020 - 2 sections
