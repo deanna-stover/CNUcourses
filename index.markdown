@@ -4,7 +4,10 @@
 
 layout: home
 ---
-#Deanna Stover's Recent Courses
+
+_____
+# Deanna Stover's Recent Courses
+_____
 
 * IDST 270, Introduction to Digital Humanities
   * Fall 2020
