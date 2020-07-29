@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Deanna Stover's Courses
+title: Deanna Stover
 email: deanna.stover@cnu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website of courses Deanna Stover has taught or will teach at Christopher Newport University. 
