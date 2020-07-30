@@ -9,8 +9,8 @@ _____
 # Deanna Stover's Recent Courses
 
 * IDST 270, Introduction to Digital Humanities
-  * Fall 2020
+  * [Fall 2020](https://deanna-stover.github.io/CNUcourses/fall2020/idst270/syllabus)
 
 
 * ENGL 350, Writing for the Digital Humanities
-  * Fall 2020 - 2 sections
+  * [Fall 2020](https://deanna-stover.github.io/CNUcourses/fall2020/engl350/syllabus) - 2 sections
